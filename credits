@@ -1,7 +1,7 @@
-<size=42><b>Arcade Space Survivor</b></size>
-Game by: Marvin Woelke
+<size=42><color=greed><b>Game by</b></color></size>
+Marvin Woelke
 
-<size=42><b>Playtest & Feedback</b></size>
+<size=42><color=greed><b>Playtest & Feedback</b></color></size>
 Laurin
 Lukas
 Malte
@@ -13,5 +13,8 @@ Rico
 PeterTime
 mrChocho
 
-<size=42><b>Donatens</b></size>
+<size=42><color=greed><b>Assets</b></color></size>
+Deep-Fold: Pixel Planet Generator
+
+<size=42><color=greed><b>Donations</b></color></size>
 -
